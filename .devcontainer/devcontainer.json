@@ -1,6 +1,7 @@
 {
-    // Name this configuration
+    // test
     "name": "Codespace for Skills!",
+    "image": "mcr.microsoft.com/devcontainers/typescript-node:0-18",
     "customizations": {
         "vscode": {
             "extensions": [
